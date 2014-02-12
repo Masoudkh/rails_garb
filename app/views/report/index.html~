@@ -1,3 +1,4 @@
+<img border="0" src="<%=@url%>" alt="Pulpit rock">
 <table border="1">
 	<tr>
 		<td>Visits</td>
@@ -16,3 +17,4 @@
 	</tr>
 	<% end %>
 </table>
+
